@@ -155,14 +155,14 @@ This section focuses on understanding and implementing fundamental sorting techn
 
 ---
 
-# 🛠️ Technologies
+## 🛠️ Technologies
 
 * **C++**
 * **GitHub**
 
 ---
 
-# 🎯 Learning Goals
+## 🎯 Learning Goals
 
 Through this repository, I aim to:
 
@@ -174,13 +174,22 @@ Through this repository, I aim to:
 
 ---
 
-# 📈 Continuous Learning
+## 📈 Continuous Learning
 
 This repository is a work in progress.
 
 I have started with the **fundamentals and sorting techniques** and will continue adding new topics, implementations, and problem solutions as I progress through my DSA journey.
 
 > **Learn. Practice. Solve. Improve. Repeat.**
+
+---
+
+## 🤝 Connect With Me
+
+I am always open to connecting with fellow developers, learners, and technology enthusiasts.
+
+* 💼 **LinkedIn:** [www.linkedin.com/in/pranali-n-ingole](https://www.linkedin.com/in/pranali-n-ingole/)
+* 🐙 **GitHub:** [Data Structures and Algorithms](https://github.com/pranaliningole/Data-Structures-and-Algorithms)
 
 ---
 
