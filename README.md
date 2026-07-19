@@ -1,4 +1,4 @@
----
+
 
 # 🛠️ Technologies
 
@@ -8,7 +8,7 @@ This repository is implemented using:
 - **Git** – Version control
 - **GitHub** – Repository hosting and version management
 
----
+
 
 # 🎯 Learning Goals
 
