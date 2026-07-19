@@ -1,198 +1,71 @@
-# 🚀 Data Structures and Algorithms in C++
+---
 
-Welcome to my **Data Structures and Algorithms (DSA)** repository.
+# 🛠️ Technologies
 
-This repository represents my journey of learning, practicing, and mastering **Data Structures and Algorithms using C++**. I am following a structured learning path, starting with programming fundamentals and gradually progressing toward advanced data structures and algorithms.
+This repository is implemented using:
 
-The primary goal of this repository is to strengthen my **problem-solving abilities, logical thinking, algorithmic knowledge, and coding skills** while building a strong foundation for a career as a **Software Engineer**.
+- **C++** – Core programming language
+- **Git** – Version control
+- **GitHub** – Repository hosting and version management
 
 ---
 
-## 📚 About This Repository
+# 🎯 Learning Goals
 
-This repository contains my continuous practice and learning in:
+This repository has been created with the following objectives:
 
-* 📖 Programming fundamentals
-* 💻 C++ implementations
-* 🧠 Data Structures and Algorithms
-* ⚡ Problem-solving techniques
-* 🗂️ Topic-wise practice
-* 🚀 Algorithm implementations
-
-The repository is actively maintained and will continue to grow as I learn and practice new concepts.
+- Develop a strong foundation in Data Structures and Algorithms.
+- Improve analytical thinking and problem-solving skills.
+- Practice writing clean, efficient, and optimized C++ solutions.
+- Prepare for technical interviews and coding assessments.
+- Document my learning journey with well-structured and maintainable code.
 
 ---
 
-# 🗺️ DSA Learning Roadmap
+# 📈 Progress & Continuous Learning
 
-## ✅ 1. Learning Basics
+This repository is continuously updated as I progress through my Data Structures and Algorithms journey.
 
-This section covers the fundamental concepts required to begin the journey of Data Structures and Algorithms.
+### ✅ Completed
 
-📂 **Status:** In Progress
+- Basics
+- Sorting
+- Arrays
 
----
+### 🚀 Coming Next
 
-## ✅ 2. Sorting Techniques
+- Binary Search
+- Strings
+- Linked Lists
+- Recursion
+- Bit Manipulation
+- Stack & Queue
+- Sliding Window
+- Two Pointers
+- Heaps
+- Greedy Algorithms
+- Binary Trees
+- Binary Search Trees
+- Graphs
+- Dynamic Programming
+- Tries
+- Additional Advanced Topics
 
-This section focuses on understanding and implementing fundamental sorting techniques.
-
-📂 **Status:** In Progress
-
----
-
-## 🔜 3. Arrays
-
-📂 **Status:** Coming Soon
-
----
-
-## 🔜 4. Binary Search
-
-📂 **Status:** Coming Soon
-
----
-
-## 🔜 5. Strings
-
-📂 **Status:** Coming Soon
+Every solution is carefully implemented in **C++**, focusing on correctness, readability, and optimal time and space complexity whenever possible.
 
 ---
 
-## 🔜 6. Linked Lists
+# 🤝 Connect With Me
 
-📂 **Status:** Coming Soon
+I'm always happy to connect with fellow developers, students, and technology enthusiasts.
 
----
-
-## 🔜 7. Recursion and Backtracking
-
-📂 **Status:** Coming Soon
+- 💼 **LinkedIn:** https://www.linkedin.com/in/pranali-n-ingole/
+- 🐙 **GitHub Repository:** https://github.com/pranaliningole/Data-Structures-and-Algorithms
 
 ---
 
-## 🔜 8. Bit Manipulation
+## ⭐ Thank You
 
-📂 **Status:** Coming Soon
+Thank you for visiting this repository.
 
----
-
-## 🔜 9. Stacks and Queues
-
-📂 **Status:** Coming Soon
-
----
-
-## 🔜 10. Sliding Window and Two Pointers
-
-📂 **Status:** Coming Soon
-
----
-
-## 🔜 11. Hashing
-
-📂 **Status:** Coming Soon
-
----
-
-## 🔜 12. Greedy Algorithms
-
-📂 **Status:** Coming Soon
-
----
-
-## 🔜 13. Binary Trees
-
-📂 **Status:** Coming Soon
-
----
-
-## 🔜 14. Binary Search Trees
-
-📂 **Status:** Coming Soon
-
----
-
-## 🔜 15. Graphs
-
-📂 **Status:** Coming Soon
-
----
-
-## 🔜 16. Dynamic Programming
-
-📂 **Status:** Coming Soon
-
----
-
-## 🔜 17. Tries
-
-📂 **Status:** Coming Soon
-
----
-
-# 📊 Learning Progress
-
-| Topic                           | Status         |
-| ------------------------------- | -------------- |
-| Learning Basics                 | 🔄 In Progress |
-| Sorting Techniques              | 🔄 In Progress |
-| Arrays                          | 🔜 Coming Soon |
-| Binary Search                   | 🔜 Coming Soon |
-| Strings                         | 🔜 Coming Soon |
-| Linked Lists                    | 🔜 Coming Soon |
-| Recursion and Backtracking      | 🔜 Coming Soon |
-| Bit Manipulation                | 🔜 Coming Soon |
-| Stacks and Queues               | 🔜 Coming Soon |
-| Sliding Window and Two Pointers | 🔜 Coming Soon |
-| Hashing                         | 🔜 Coming Soon |
-| Greedy Algorithms               | 🔜 Coming Soon |
-| Binary Trees                    | 🔜 Coming Soon |
-| Binary Search Trees             | 🔜 Coming Soon |
-| Graphs                          | 🔜 Coming Soon |
-| Dynamic Programming             | 🔜 Coming Soon |
-| Tries                           | 🔜 Coming Soon |
-
----
-
-## 🛠️ Technologies
-
-* **C++**
-* **GitHub**
-
----
-
-## 🎯 Learning Goals
-
-Through this repository, I aim to:
-
-* Build a strong foundation in Data Structures and Algorithms
-* Improve my problem-solving and logical thinking skills
-* Learn to design efficient and optimized solutions
-* Practice consistently and follow a structured learning path
-* Prepare for technical interviews and software engineering opportunities
-
----
-
-## 📈 Continuous Learning
-
-This repository is a work in progress.
-
-I have started with the **fundamentals and sorting techniques** and will continue adding new topics, implementations, and problem solutions as I progress through my DSA journey.
-
-> **Learn. Practice. Solve. Improve. Repeat.**
-
----
-
-## 🤝 Connect With Me
-
-I am always open to connecting with fellow developers, learners, and technology enthusiasts.
-
-* 💼 **LinkedIn:** [www.linkedin.com/in/pranali-n-ingole](https://www.linkedin.com/in/pranali-n-ingole/)
-* 🐙 **GitHub:** [Data Structures and Algorithms](https://github.com/pranaliningole/Data-Structures-and-Algorithms)
-
----
-
-⭐ **Thank you for visiting my repository!**
-
-🚀 **This repository represents my continuous journey toward becoming a skilled Software Engineer through consistent learning and problem-solving.**
+If you find this project helpful, consider giving it a **⭐ Star**. Your support motivates me to continue learning, improving, and sharing high-quality DSA solutions.
